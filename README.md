@@ -1,5 +1,5 @@
 # In-n-Out Challenge Calculator
-## Calculate the number of trips to In-n-Out it will take to complete the In-n-Out Challenge!
+#### Calculate the number of trips to In-n-Out it will take to complete the In-n-Out Challenge!
 
 This project was inspired by @daraeman's In-n-Out Challenge. (If you haven't heard of it, you should go check it out at http://innoutchallenge.com.) The goal of the challenge is to acquire every unique receipt number given at In-n-Out. The numbers range from 1 to 99, with the exception of the number 69, leaving us with 98 unique reciept numbers.
 
