@@ -12,7 +12,7 @@ int main () {
 	// Get from the user the number of simulations to run
 	cout << "Welcome to the (unofficial) In-n-Out Challenge calculator!";
 	cout << endl;
-	cout << "How many simulations of the  would you like to run? ";
+	cout << "How many simulations of the challenge would you like to run? ";
 	int n;
 	cin >> n;
 
